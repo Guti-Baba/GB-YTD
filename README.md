@@ -2,7 +2,7 @@
 YouTube Video &amp; Audio Downloader
 
 # Installation
-$ termux-setup-storage
+$ termux-setup-storage <br>
 $ apt update; apt upgrade -y
 $ pkg install git -y
 $ pkg install python2
