@@ -1,6 +1,15 @@
 # GB-YT-Downloader
 YouTube Video &amp; Audio Downloader
 
+# Installation
+$ termux-setup-storage
+$ apt update; apt upgrade -y
+$ pkg install git -y
+$ pkg install python2
+$ pip install --upgrade pip
+$ cd GB-YTD
+$ python2 yt.py
+
 # Screenshot
 ![Screenshot_20210630-101812](https://user-images.githubusercontent.com/79633162/123901605-0c9a7f80-d98d-11eb-8ab0-618bac28425f.png)
 ![Screenshot_20210630-101655](https://user-images.githubusercontent.com/79633162/123901611-0e644300-d98d-11eb-9fc1-33aa117093d1.png)
