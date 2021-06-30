@@ -1,0 +1,4 @@
+pkg install ffmpeg
+pip install -U youtube-dl
+pip install --upgrade pip youtube-dl
+rm -rf requirements
