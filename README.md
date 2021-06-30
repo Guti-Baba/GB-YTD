@@ -9,8 +9,8 @@ $ pkg install python2 <br>
 $ git clone https://github.com/Guti-Baba/GB-YTD <br>
 $ pip install --upgrade pip <br>
 $ cd GB-YTD <br>
-$ bash requirements
-$ python2 yt.py <br>
+$ bash requirements <br>
+$ python2 yt <br>
 
 # Screenshot
 ![Screenshot_20210630-101812](https://user-images.githubusercontent.com/79633162/123901605-0c9a7f80-d98d-11eb-8ab0-618bac28425f.png)
