@@ -9,6 +9,7 @@ $ pkg install python2 <br>
 $ git clone https://github.com/Guti-Baba/GB-YT-Downloader <br>
 $ pip install --upgrade pip <br>
 $ cd GB-YTD <br>
+$ bash requirements
 $ python2 yt.py <br>
 
 # Screenshot
