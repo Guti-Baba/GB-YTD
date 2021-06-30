@@ -6,6 +6,7 @@ $ termux-setup-storage <br>
 $ apt update; apt upgrade -y <br>
 $ pkg install git -y <br>
 $ pkg install python2 <br>
+$ git clone https://github.com/Guti-Baba/GB-YT-Downloader <br>
 $ pip install --upgrade pip <br>
 $ cd GB-YTD <br>
 $ python2 yt.py <br>
