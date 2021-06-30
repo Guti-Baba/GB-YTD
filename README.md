@@ -5,6 +5,7 @@ YouTube Video &amp; Audio Downloader
 $ termux-setup-storage <br>
 $ apt update; apt upgrade -y <br>
 $ pkg install git -y <br>
+$ pkg install python <br>
 $ pkg install python2 <br>
 $ git clone https://github.com/Guti-Baba/GB-YTD <br>
 $ pip install --upgrade pip <br>
